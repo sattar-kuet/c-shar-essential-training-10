@@ -1,0 +1,6 @@
+F:\C#\StringMethod\StringMethod\bin\Debug\StringMethod.exe.config
+F:\C#\StringMethod\StringMethod\bin\Debug\StringMethod.exe
+F:\C#\StringMethod\StringMethod\bin\Debug\StringMethod.pdb
+F:\C#\StringMethod\StringMethod\obj\Debug\StringMethod.csprojAssemblyReference.cache
+F:\C#\StringMethod\StringMethod\obj\Debug\StringMethod.exe
+F:\C#\StringMethod\StringMethod\obj\Debug\StringMethod.pdb
